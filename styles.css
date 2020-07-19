@@ -1,0 +1,12 @@
+
+.hero nav {
+    align-self: flex-end;
+    margin-top: 20px;
+}
+nav a {
+    text-decoration: none;
+	color: white;
+	margin-right: 20px;
+	background-color: black;
+	padding: 5px;   
+}
